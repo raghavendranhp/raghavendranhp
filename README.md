@@ -1,7 +1,7 @@
 # Raghavendran S 
-# Data Scientist | Machine Learning Engineer | Python Developer
+## Data Scientist | Machine Learning Engineer | Python Developer
 
-📱 Mobile: 9585963535 | ✉️ E-mail: raghavendranhp@gmail.com | 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/raghavendransundararajan) | 🐙 GitHub: [GitHub Profile](https://github.com/raghavendranhp)
+📱  | ✉️ E-mail: raghavendranhp@gmail.com | 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/raghavendransundararajan) | 🐙 GitHub: [GitHub Profile](https://github.com/raghavendranhp)
 
 📍 Location: Erode, Tamilnadu, India
 
