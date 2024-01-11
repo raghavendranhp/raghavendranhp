@@ -24,7 +24,7 @@
 - The Nuts and Bolts of Machine Learning - Google (Coursera)
 - Generative AI - Google Skill Boost
 - Python - Guvi
-- Applied Data Science Lab - WorldQuant University (Pursuing)
+- Applied Data Science Lab - WorldQuant University 
 
 ---
 
