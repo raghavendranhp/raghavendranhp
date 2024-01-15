@@ -73,3 +73,32 @@
 
 ---
 
+## Repositories
+
+1. [Repository Name 1](https://github.com/raghavendranhp/repository1)
+   - Brief description of the repository.
+
+2. [Repository Name 2](https://github.com/raghavendranhp/repository2)
+   - Brief description of the repository.
+
+3. [Repository Name 3](https://github.com/raghavendranhp/repository3)
+   - Brief description of the repository.
+
+---
+
+## Teaching Experiences
+
+### 1. Machine Learning Instructor - XYZ Institute
+
+- Designed and delivered comprehensive machine learning courses for aspiring data scientists.
+- Mentored students on practical applications of machine learning algorithms and real-world projects.
+- Conducted workshops on data analysis, feature engineering, and model evaluation techniques.
+
+### 2. Python Programming Trainer - ABC Coding Academy
+
+- Led Python programming classes for beginners and intermediate learners.
+- Provided hands-on coding sessions and practical exercises to enhance students' programming skills.
+- Assisted in curriculum development and content creation for Python programming courses.
+
+---
+
