@@ -86,15 +86,15 @@
 
 ---
 
-## Teaching Experiences
+## Experiences
 
-### 1. Machine Learning Instructor - XYZ Institute
+### 1. Machine Learning Instructor
 
 - Designed and delivered comprehensive machine learning courses for aspiring data scientists.
 - Mentored students on practical applications of machine learning algorithms and real-world projects.
 - Conducted workshops on data analysis, feature engineering, and model evaluation techniques.
 
-### 2. Python Programming Trainer - ABC Coding Academy
+### 2. Python Programming Trainer - TALENTERS Academy
 
 - Led Python programming classes for beginners and intermediate learners.
 - Provided hands-on coding sessions and practical exercises to enhance students' programming skills.
