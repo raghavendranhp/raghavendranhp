@@ -11,9 +11,10 @@
 
 - **Programming Languages:** Python, SQL
 - **Databases:** MySQL, MongoDB
-- **Tools & Frameworks:** Git, AWS (SageMaker, Lambda, S3, EC2), Streamlit
+- **Tools & Frameworks:** Git, AWS (SageMaker, Lambda, S3, EC2), Streamlit,Docker
 - **Data Science / Machine Learning:** Scikit-Learn, PyTorch, Pandas, NumPy, SciPy, NLTK, PySpark
 - **Data Visualization:** Power BI, Tableau, Python-Plotly, Seaborn, Matplotlib
+- **Additional Technical Skills:** AutoCAD 2015, Pro-e, Ansys, Rs logix Micro English
 
 ---
 
@@ -41,7 +42,9 @@
 
 ## Education
 
-- **Bachelor of Engineering** - Anna University, Apr 2014
+- **Bachelor of Engineering**
+- *Mechanical Engineering*
+-  Anna University, Apr 2014
 
 ---
 
