@@ -11,7 +11,7 @@
 
 - **Programming Languages:** Python, SQL
 - **Databases:** MySQL, MongoDB
-- **Tools & Frameworks:** Git, AWS (SageMaker, Lambda, S3, EC2), Streamlit,Docker
+- **Tools & Frameworks:** Git, AWS (SageMaker, Lambda, S3, EC2), Streamlit,Docker, Powerpoint, Excel, Word
 - **Data Science / Machine Learning:** Scikit-Learn, PyTorch, Pandas, NumPy, SciPy, NLTK, PySpark
 - **Data Visualization:** Power BI, Tableau, Python-Plotly, Seaborn, Matplotlib
 - **Additional Technical Skills:** AutoCAD 2015, Pro-e, Ansys, Rs logix Micro English
