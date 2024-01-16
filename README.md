@@ -43,8 +43,8 @@
 ## Education
 
 - **Bachelor of Engineering**
-- *Mechanical Engineering*
--  Anna University, Apr 2014
+  *Mechanical Engineering*
+  Anna University, Apr 2014
 
 ---
 
