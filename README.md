@@ -153,17 +153,17 @@
 
 ## Experiences
 ### 1.**Lecturer in Mechanical Engineering**
-*Govt College, | JUN 2014 - OCT 2022*
+*Govt College, | JUN 2014 - OCT 2020*
 - Developed and implemented curriculum modules in manufacturing, thermal, and fluid mechanics.
 - Integrated real-world industrial insights into lectures, emphasizing practical applications.
 - Pioneered courses in E-Vehicle Technology and Digital Manufacturing.
 - Instructed on ladder logics and automation techniques, bridging theory with industrial applications.
-### 2.**Programming Trainer**
-*Talenters Academy*
-- Led Python programming classes for beginners and intermediate learners.
-- Provided hands-on coding sessions and practical exercises to enhance students' programming skills.
-- Delivered comprehensive machine learning courses for aspiring data scientists.
-- Mentored students on applications of machine learning algorithms and real-world projects.
-- Guided students on data analysis, feature engineering, and model evaluation techniques.
+### 2.**Technical Analyst**
+*Right Link Impex, | Nov 2020 - Present*
+- Played a crucial role in leveraging data to optimize production processes, enhance product quality, and drive operational efficiency within the organization.
+- Conducted comprehensive data analysis to identify trends, patterns, and opportunities for improvement in product development, manufacturing operations, and supply chain management.By the implementation of continuous monitoring processes data accuracy increased by 27%
+- Developed and maintained dashboards, reports, and performance metrics to monitor key performance indicators (KPIs), track progress towards goals, and identify areas for optimization.
+- Spearheaded the development and implementation of an automatic loader for products, resulting in a remarkable 25% reduction in labor costs and significant time savings in loading and unloading processes.
+
 ---
 
