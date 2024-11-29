@@ -43,12 +43,12 @@
 ## Education
 
 - **Master of Technology**
-  *Robotics & AI*
-  Anna University
+- *Robotics & AI*
+- Anna University
 
 - **Bachelor of Engineering**
-  *Mechanical Engineering*
-  Anna University
+- *Mechanical Engineering*
+- Anna University
 
 ---
 
