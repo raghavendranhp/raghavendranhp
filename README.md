@@ -42,9 +42,13 @@
 
 ## Education
 
+- **Master of Technology**
+  *Robotics & AI*
+  Anna University
+
 - **Bachelor of Engineering**
   *Mechanical Engineering*
-  Anna University, Apr 2014
+  Anna University
 
 ---
 
