@@ -157,13 +157,13 @@
 
 ## Experiences
 ### 1.**Lecturer in Mechanical Engineering**
-*Govt College, | JUN 2014 - OCT 2020*
+*Govt College, | Jun 2014 - Oct 2020*
 - Developed and implemented curriculum modules in manufacturing, thermal, and fluid mechanics.
 - Integrated real-world industrial insights into lectures, emphasizing practical applications.
 - Pioneered courses in E-Vehicle Technology and Digital Manufacturing.
 - Instructed on ladder logics and automation techniques, bridging theory with industrial applications.
 ### 2.**Technical Analyst**
-*Right Link Impex, | Nov 2020 - Present*
+*Right Link Impex, | Nov 2020 - Jan 2021
 - Played a crucial role in leveraging data to optimize production processes, enhance product quality, and drive operational efficiency within the organization.
 - Conducted comprehensive data analysis to identify trends, patterns, and opportunities for improvement in product development, manufacturing operations, and supply chain management.By the implementation of continuous monitoring processes data accuracy increased by 27%
 - Developed and maintained dashboards, reports, and performance metrics to monitor key performance indicators (KPIs), track progress towards goals, and identify areas for optimization.
