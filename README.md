@@ -1,58 +1,91 @@
-# Raghavendran S 
-## Data Scientist | Machine Learning Engineer | Python Developer
+H
+---
 
-📱  | ✉️ E-mail: raghavendranhp@gmail.com | 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/raghavendransundararajan) | 🐙 GitHub: [GitHub Profile](https://github.com/raghavendranhp)
+# **Raghavendran S**  
+**Python Developer | Machine Learning Engineer | Robotics & AI Enthusiast**  
 
-📍 Location: Erode, Tamilnadu, India
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raghavendransundararajan/)  
+[![GitHub](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/raghavendranhp)  
 
 ---
 
-## Skills
+## 👋 **About Me**  
 
-- **Programming Languages:** Python, SQL
-- **Databases:** MySQL, MongoDB
-- **Tools & Frameworks:** Git, AWS (SageMaker, Lambda, S3, EC2), Streamlit,Docker, Powerpoint, Excel, Word
-- **Data Science / Machine Learning:** Scikit-Learn, PyTorch, Pandas, NumPy, SciPy, NLTK, PySpark
-- **Data Visualization:** Power BI, Tableau, Python-Plotly, Seaborn, Matplotlib
-- **Additional Technical Skills:** AutoCAD 2015, Pro-e, Ansys, Rs logix Micro English
+Hi! I’m **Raghavendran S**, a **Python Developer** with **3+ years of experience** in IT services, application development, and data-driven solutions.  
 
----
+Currently pursuing **M.Tech in Robotics & AI** at **Anna University**, I specialize in **machine learning**, **computer vision**, **robotics**, and **automation technologies**. My passion lies in combining programming, AI, and robotics to create **intelligent systems** that solve **real-world challenges**.  
 
-## Certifications and Courses
-
-- Advanced Programming Professional in Master Data Science - IIT, Madras
-- Master Data Science - Guvi
-- The Nuts and Bolts of Machine Learning - Google (Coursera)
-- Generative AI - Google Skill Boost
-- Python - Guvi
-- Applied Data Science Lab - WorldQuant University 
+With expertise in **Python programming**, **machine vision**, and **deep learning frameworks**, I focus on building scalable applications, integrating APIs, and developing **AI-powered tools** for **data analysis**, **automation**, and **robotic systems**.  
 
 ---
 
-## Soft Skills
+## 🎓 **Education**  
 
-- Collaborative Contributor
-- Flexible Adaptor
-- Innovative Solver
-- Visionary Leader
-- Compassionate Connector
-- Clear Communicator
+- **Master of Technology (Robotics & AI)** – Anna University, Chennai (Pursuing)  
+- **Master Data Science Program** – IIT Madras - GUVI (November 2023)  
+- **Bachelor of Engineering (Mechanical)** – Anna University, Chennai (April 2014)  
 
 ---
 
-## Education
+## 🛠️ **Technical Skills**  
 
-- **Master of Technology**
- *Robotics & AI*
- Anna University
-
-- **Bachelor of Engineering**
- *Mechanical Engineering*
- Anna University
+- **Programming Languages:** Python, SQL, NoSQL  
+- **Frameworks & Libraries:** Flask, TensorFlow, PyTorch, Pandas, NumPy, Scikit-Learn, OpenCV, Streamlit  
+- **Robotics & AI Tools:** RoboDK, MATLAB, ROS (Robot Operating System)  
+- **Computer Vision & Machine Vision:** OpenCV, Image Processing, Object Detection, Feature Matching  
+- **Machine Learning Techniques:** Neural Networks, Reinforcement Learning, Autoencoders, GANs  
+- **APIs & Deployment:** AWS (SageMaker, Lambda, S3, EC2), WhatsApp API, YouTube API  
+- **Databases:** MySQL, MongoDB, SQLite3  
+- **Visualization Tools:** Power BI  
+- **Version Control:** Git, GitHub  
+- **Soft Skills:** Problem-solving, Team Collaboration, Client Communication  
 
 ---
 
-## Project Experiences  
+## 📂 **Projects**  
+
+### 🔹 **1. Bulk Messaging App with WhatsApp API**  
+- Developed a **bulk messaging application** integrated with the **WhatsApp API**, improving client outreach by **30%**.  
+- Implemented **automation** and **role-based privileges** for streamlined campaign management.  
+
+### 🔹 **2. Market Analysis for Investment Planning**  
+- Conducted market research for a ₹20–30 lakh **investment plan** in Coimbatore.  
+- Delivered insights that improved ROI by **20%** through **data-driven strategies**.  
+
+### 🔹 **3. Web-Based Inventory Management System**  
+- Built a **role-based inventory platform** for businesses with **50+ users**.  
+- Features include **product management**, **stock alerts**, and **detailed reporting**, reducing stock outages by **40%**.  
+
+### 🔹 **4. Robotic Pick and Place Simulation**  
+- Simulated **pick-and-place operations** using **RoboDK** for industrial automation.  
+- Developed **robot motion sequences** and optimized **gripper positioning** for precision tasks.  
+
+### 🔹 **5. Image Processing for Object Detection**  
+- Built a **real-time object detection model** using **OpenCV** and **TensorFlow**.  
+- Enhanced accuracy with **feature extraction** and **pattern matching algorithms** for **machine vision systems**.  
+
+---
+
+## 📈 **Certifications**  
+
+- **Advanced Programming in Data Science** – IIT Madras  
+- **The Nuts and Bolts of Machine Learning** – Google (Coursera)  
+- **Deep Learning Specialization** – Coursera (Andrew Ng)  
+- **Robotics Fundamentals** – RoboDK Training  
+
+---
+
+## 📬 **Let’s Connect!**  
+
+I’m always open to discussions about **AI**, **machine learning**, **robotics**, **automation**, and **computer vision**. Let’s collaborate and build something amazing!  
+
+📧 **Email:** raghavendranhp@gmail.com  
+🌐 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/raghavendransundararajan/)  
+💻 **GitHub:** [github.com/your-username](https://github.com/raghavendranhp)  
+
+---
+
+## Repositries 
 (Includes Capstone Projects ,Educational Projects  )
 
 **Predictive Analytics in Automotive Manufacturing: Testing Time Optimization**
@@ -155,22 +188,5 @@
 
 ---
 
-## Experiences
-### 1.**Lecturer in Mechanical Engineering**
-*Govt College, | Jun 2014 - Oct 2020*
-- Developed and implemented curriculum modules in manufacturing, thermal, and fluid mechanics.
-- Integrated real-world industrial insights into lectures, emphasizing practical applications.
-- Pioneered courses in E-Vehicle Technology and Digital Manufacturing.
-- Instructed on ladder logics and automation techniques, bridging theory with industrial applications.
-### 2.**Technical Analyst**
-*Right Link Impex, | Nov 2020 - Jan 2021*
-- Played a crucial role in leveraging data to optimize production processes, enhance product quality, and drive operational efficiency within the organization.
-- Conducted comprehensive data analysis to identify trends, patterns, and opportunities for improvement in product development, manufacturing operations, and supply chain management.By the implementation of continuous monitoring processes data accuracy increased by 27%
-- Developed and maintained dashboards, reports, and performance metrics to monitor key performance indicators (KPIs), track progress towards goals, and identify areas for optimization.
-- Spearheaded the development and implementation of an automatic loader for products, resulting in a remarkable 25% reduction in labor costs and significant time savings in loading and unloading processes.
-### 3.**Python Developer**  
-*Xortican Technologies , | Feb 2021 -Present*  
-- 
 
----
 
