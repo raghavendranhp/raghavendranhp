@@ -3,7 +3,7 @@
 **Python Developer | Machine Learning Engineer | Robotics & AI Enthusiast**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raghavendransundararajan/)  
-[![GitHub](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/raghavendranhp)  
+[![GitHub](https://img.shields.io/github/followers/raghavendranhp?label=Follow&style=social)](https://github.com/raghavendranhp)  
 
 ---
 
