@@ -83,7 +83,7 @@ I’m always open to discussions about **AI**, **machine learning**, **robotics*
 
 ---
 
-## Repositries 
+## Repositories 
 (Includes Capstone Projects ,Educational Projects  )
 
 **Predictive Analytics in Automotive Manufacturing: Testing Time Optimization**
