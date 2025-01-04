@@ -78,8 +78,8 @@ With expertise in **Python programming**, **machine vision**, and **deep learnin
 I’m always open to discussions about **AI**, **machine learning**, **robotics**, **automation**, and **computer vision**. Let’s collaborate and build something amazing!  
 
 📧 **Email:** raghavendranhp@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/raghavendransundararajan/)  
-💻 **GitHub:** [github.com/your-username](https://github.com/raghavendranhp)  
+🌐 **LinkedIn:** [linkedin](https://www.linkedin.com/in/raghavendransundararajan/)  
+💻 **GitHub:** [github](https://github.com/raghavendranhp)  
 
 ---
 
