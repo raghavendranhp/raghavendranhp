@@ -1,6 +1,6 @@
 
 # **Raghavendran S**  
-**Python Developer | Machine Learning Engineer | Robotics & AI Enthusiast**  
+**Data Scientist | Machine Learning Engineer | Robotics & AI Enthusiast**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raghavendransundararajan/)  
 [![GitHub](https://img.shields.io/github/followers/raghavendranhp?label=Follow&style=social)](https://github.com/raghavendranhp)  
@@ -9,7 +9,7 @@
 
 ## 👋 **About Me**  
 
-Hi! I’m **Raghavendran S**, a **Python Developer** with **3+ years of experience** in IT services, application development, and data-driven solutions.  
+Hi! I’m **Raghavendran S**, a **Data Scientist** with **2+ years of experience** in IT services, application development, and data-driven solutions.  
 
 Currently pursuing **M.Tech in Robotics & AI** at **Anna University**, I specialize in **machine learning**, **computer vision**, **robotics**, and **automation technologies**. My passion lies in combining programming, AI, and robotics to create **intelligent systems** that solve **real-world challenges**.  
 
@@ -32,7 +32,7 @@ With expertise in **Python programming**, **machine vision**, and **deep learnin
 - **Robotics & AI Tools:** RoboDK, MATLAB, ROS (Robot Operating System)  
 - **Computer Vision & Machine Vision:** OpenCV, Image Processing, Object Detection, Feature Matching  
 - **Machine Learning Techniques:** Neural Networks, Reinforcement Learning, Autoencoders, GANs  
-- **APIs & Deployment:** AWS (SageMaker, Lambda, S3, EC2), WhatsApp API, YouTube API  
+- **APIs & Deployment:** AWS (SageMaker, Lambda, S3), WhatsApp API, YouTube API  
 - **Databases:** MySQL, MongoDB, SQLite3  
 - **Visualization Tools:** Power BI  
 - **Version Control:** Git, GitHub  
